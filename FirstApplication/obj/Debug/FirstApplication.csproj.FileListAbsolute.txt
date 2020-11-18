@@ -1,0 +1,7 @@
+C:\Users\hp\Desktop\LBJ\training\VB\FirstApplicationSolution\FirstApplication\obj\Debug\FirstApplication.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\LBJ\training\VB\FirstApplicationSolution\FirstApplication\bin\Debug\FirstApplication.exe.config
+C:\Users\hp\Desktop\LBJ\training\VB\FirstApplicationSolution\FirstApplication\bin\Debug\FirstApplication.exe
+C:\Users\hp\Desktop\LBJ\training\VB\FirstApplicationSolution\FirstApplication\bin\Debug\FirstApplication.pdb
+C:\Users\hp\Desktop\LBJ\training\VB\FirstApplicationSolution\FirstApplication\obj\Debug\FirstApplication.exe
+C:\Users\hp\Desktop\LBJ\training\VB\FirstApplicationSolution\FirstApplication\obj\Debug\FirstApplication.pdb
+C:\Users\hp\Desktop\LBJ\training\VB\FirstApplicationSolution\FirstApplication\obj\Debug\FirstApplication.csprojAssemblyReference.cache

@@ -1,0 +1,3 @@
+C:\Users\hp\Desktop\LBJ\training\VB\FirstApplicationSolution\FirstApplication\obj\Debug\Assignment1.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\LBJ\training\VB\FirstApplicationSolution\FirstApplication\obj\Debug\FirstApplication.exe
+C:\Users\hp\Desktop\LBJ\training\VB\FirstApplicationSolution\FirstApplication\obj\Debug\FirstApplication.pdb
