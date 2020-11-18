@@ -7,6 +7,7 @@ namespace FirstApplication
     {
         static void Main()
         {
+		 Console.WriteLine("Jenkins");
 			Console.WriteLine("Enter Name");
 			string name = Console.ReadLine();
 
